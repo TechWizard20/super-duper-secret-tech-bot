@@ -1,4 +1,2 @@
-# super-duper-secret-tech-bot
-Well Seymour, I made it.
-
-DESPITE your directions....
+# Loren-Bot
+It's Loren, but in bot form.

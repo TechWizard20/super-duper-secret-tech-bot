@@ -1,2 +1,4 @@
 # super-duper-secret-tech-bot
-My pet project.
+Well Seymour, I made it.
+
+DESPITE your directions....
